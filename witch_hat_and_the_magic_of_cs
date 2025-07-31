@@ -14,4 +14,13 @@ with Witch Hat Atelier within it's initial few pages. But what
 impressed me most of all, is the beautifully uncanny way it's
 power system fits the world of Computer Science.
 
+The most ostensible place this similarity is depicted is in the 
+detailed inner workings of the power system itself.
 
+Runes; can be interpreted as main, the entry point to a program,
+the code that roughly defines what an app shall do when it's run.
+
+Keystones, would be the variables a program uses during it's
+execution. The data within them can obviously vary in type,
+amount, length, and shape. These manipulations in the variables
+then go on to dictate exactly how a process will behave.
