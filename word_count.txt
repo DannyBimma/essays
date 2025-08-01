@@ -1,0 +1,8 @@
+The Famous WC Program
+
+Once I learn the basics of a new programming language and I print 
+"Hello, world!" to the screen for the first time. The first
+"real program" I try to build after that is Word Count (wc). Simply
+because it's one of those things I happen to enjoy building from
+scratch and from memory. And since I'm a writer of prose, it's
+something I happen to use every single day as well.
